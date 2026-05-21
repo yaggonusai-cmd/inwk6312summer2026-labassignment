@@ -1,1 +1,1 @@
-# Inwk6312Summer2026-LabAssignment
+# Restconf Lab for Inwk6312 - Programming for Internetworking
